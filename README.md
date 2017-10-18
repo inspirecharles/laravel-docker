@@ -8,7 +8,7 @@
 ### Git Checkout
 
 
-### ENVIRONMENT
+### .env
 ~~~
 APP_NAME=SEOTOOL
 APP_ENV=local
